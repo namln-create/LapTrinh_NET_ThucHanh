@@ -15,3 +15,6 @@
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 ![Thực thi chức năng](./screenshots/result.png)
+![Thực thi chức năng](./screenshots/error1.png)
+![Thực thi chức năng](./screenshots/error2.png)
+![Thực thi chức năng](./screenshots/error3.png)
